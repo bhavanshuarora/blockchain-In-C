@@ -1,3 +1,4 @@
+/******************************************Dummy Code**************************/
 #include<stdio.h>
 #include<stdlib.h>
 #include <memory.h>
@@ -366,20 +367,4 @@ void menu(){
 int main(){
 
    menu();
-
-//    printf("%d",n2.b.data[4].blockId);
-//    addBlock("10001");
-//    addBlock(10002);
-//    addBlock(10003);
-//    addBlock(10004);
-//    addBlock(10005);
-//    addBlock(10006);
-//    addBlock(10007);
-//    addBlock(10008);
-//    addBlock(10009);
-//    addBlock(10010);
-//    addBlock(10011);
-//    addBlock(10012);
-//    printf("\n\n\n\n");
-//   printChain();
 }
